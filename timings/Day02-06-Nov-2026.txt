@@ -1,0 +1,33 @@
+Today's Learning:
+
+Linux basics and commands
+
+Absolute vs Relative paths
+
+Zombie vs Orphan processes
+
+TCP vs UDP
+
+Cron jobs
+
+sed vs awk
+
+Git and GitHub commands (branching, commit, push, pull requests)
+
+Coding practice: 30 minutes
+
+Revision: 30 minutes
+
+Tomorrow's Tasks – AWS:
+
+AWS introduction and Cloud Computing
+
+Regions and Availability Zones
+
+EC2 instances
+
+Public IP vs Private IP
+
+Security Groups
+
+AWS hands-on practice

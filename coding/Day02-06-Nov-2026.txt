@@ -1,0 +1,31 @@
+Linux Commands:
+
+pwd – Current directory
+
+ls – List files
+
+cd – Change directory
+
+mkdir – Create directory
+
+touch – Create file
+
+ps -ef – View processes
+
+grep – Search text
+
+Git Commands:
+
+git status – Check status
+
+git branch – List branches
+
+git switch -c Day02 – Create branch
+
+git add . – Stage changes
+
+git commit -m "message" – Commit changes
+
+git push – Push changes to GitHub
+
+git pull – Get latest changes
