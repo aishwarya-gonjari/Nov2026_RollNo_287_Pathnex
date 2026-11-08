@@ -1,0 +1,16 @@
+Today's Learning :
+S3 (Simple Storage Service)
+S3 Buckets and Objects
+S3 Storage Classes
+IAM (Users, Groups and Roles)
+IAM Policies and Permissions
+VPC (Virtual Private Cloud)
+Public Subnet vs Private Subnet
+Internet Gateway vs NAT Gateway
+
+Tomorrow's Learning:
+EKS (Elastic Kubernetes Service)
+Auto Scaling
+Lambda
+AWS Shield
+AWS WAF (Web Application Firewall)
