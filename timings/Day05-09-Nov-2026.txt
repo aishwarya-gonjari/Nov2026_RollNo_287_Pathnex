@@ -1,0 +1,31 @@
+Today's Learning:
+
+AWS CloudFront
+
+EBS (Elastic Block Store)
+
+EFS (Elastic File System)
+
+DMS (Database Migration Service)
+
+CodeBuild
+
+Create an S3 bucket and upload a file.
+
+Explore EBS and EFS.
+
+Understand CloudFront distribution.
+
+Tomorrow's Learning:
+
+EKS (Elastic Kubernetes Service)
+
+Auto Scaling
+
+Lambda
+
+Launch an EC2 instance and explore Auto Scaling.
+
+Create a simple Lambda function.
+
+Explore EKS cluster creation.
