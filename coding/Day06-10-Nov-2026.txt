@@ -1,0 +1,33 @@
+#Terraform — Create S3 Bucket
+
+provider "aws" {
+  region = "us-east-1"
+}
+
+resource "aws_s3_bucket" "PathnexBucket" {
+  bucket = "pathnex-devops-bucket"
+
+  tags = {
+    Name = "PathnexBucket"
+  }
+}
+
+
+# Kubernetes — CronJob
+
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: pathnex-cron
+spec:
+  schedule: "*/5 * * * *"
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+            - name: job
+              image: busybox
+              command: ["sh", "-c", "echo Pathnex CronJob running"]
+          restartPolicy: OnFailure
+

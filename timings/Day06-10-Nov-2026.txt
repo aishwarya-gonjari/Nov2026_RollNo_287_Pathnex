@@ -1,0 +1,35 @@
+Today's Learning:
+
+EKS (Elastic Kubernetes Service)
+
+Auto Scaling
+
+Lambda
+
+Launch an EC2 instance and explore Auto Scaling.
+
+Create a simple Lambda function.
+
+Explore EKS cluster creation.
+
+Docker Introduction and Architecture
+
+Docker Engine
+
+Docker Compose
+
+Docker Registry
+
+Docker Swarm
+
+
+
+Tomorrow's Learning
+
+Dockerfile Instructions (RUN, CMD, ENTRYPOINT)
+
+Docker Networking Types (Bridge, Host, None, Overlay, Macvlan)
+
+Kubernetes (K8s) Introduction
+
+Kubernetes Architecture
