@@ -1,0 +1,15 @@
+Today's Learning:
+
+- Introduction to Kubernetes and its Architecture
+- Control Plane (Master Node) and Worker Nodes
+- Kubernetes Components (API Server, etcd, Scheduler, Controller Manager, Kubelet, Kube-proxy)
+- Pods and Container Runtime Interface (CRI)
+
+Tomorrow's Learning:
+
+- Kubernetes Pods and Deployments
+- ReplicaSets and Services
+- Namespaces and ConfigMaps
+- Practical: Install and configure Minikube
+- Create and manage Pods using kubectl commands
+- Deploy an application and expose it using a Service
