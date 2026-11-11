@@ -1,0 +1,18 @@
+Today's Learning :
+AWS introduction and Cloud Computing
+AWS Global Infrastructure
+Regions and Availability Zones
+EC2 (Elastic Compute Cloud)
+EC2 Instance Types
+Public IP vs Private IP
+Security Groups and Inbound/Outbound Rules
+
+Tomorrow's Tasks:
+S3 (Simple Storage Service)
+S3 Buckets and Objects
+S3 Storage Classes
+IAM (Users, Groups and Roles)
+IAM Policies and Permissions
+VPC (Virtual Private Cloud)
+Public Subnet vs Private Subnet
+Internet Gateway vs NAT Gateway

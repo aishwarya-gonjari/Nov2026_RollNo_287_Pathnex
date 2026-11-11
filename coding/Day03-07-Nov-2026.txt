@@ -1,0 +1,13 @@
+Terraform — Provisioning EC2 with VPC
+resource "aws_vpc" "main" {
+  cidr_block = "10.0.0.0/16"
+}
+
+resource "aws_instance" "main" {
+  ami           = "ami-xxxxxxxx"
+  instance_type = "t2.micro"
+
+  tags = {
+    Name = "My-EC2"
+  }
+}
