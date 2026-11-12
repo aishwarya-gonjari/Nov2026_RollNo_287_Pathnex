@@ -1,0 +1,17 @@
+Today's Learning:
+
+Kubernetes Pods and Deployments
+ReplicaSets and Services
+Namespaces and ConfigMaps
+Practical: Install and configure Minikube
+Create and manage Pods using kubectl commands
+Deploy an application and expose it using a Service
+
+Tomorrow's Learning:
+
+Kubernetes Architecture (Control Plane vs Worker Node)
+Kubernetes Deployments
+Kubernetes Services (ClusterIP, NodePort, LoadBalancer)
+ReplicaSets and Replicas
+ConfigMaps and Secrets
+Kubernetes YAML files – Basic structure
