@@ -1,0 +1,14 @@
+Today's Learning:
+
+Practice Terraform commands.
+Understand EKS cluster architecture.
+Practice Kubernetes Services and Deployments.
+Learn basic Kubernetes troubleshooting commands
+
+Tomorrow's Leanring:
+
+Kubernetes ConfigMaps and Secrets.
+Kubernetes Namespaces and Labels.
+Liveness, Readiness, and Startup Probes.
+Practical: Deploy an application using YAML files and expose it using a Kubernetes Service.
+Kubernetes HPA (Horizontal Pod Autoscaler) and resource requests and limits.
