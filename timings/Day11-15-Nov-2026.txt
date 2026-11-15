@@ -1,0 +1,15 @@
+Today's Learning:
+
+Kubernetes ConfigMaps and Secrets.
+Kubernetes Namespaces and Labels.
+Liveness, Readiness, and Startup Probes.
+Practical: Deploy an application using YAML files and expose it using a Kubernetes Service.
+Kubernetes HPA (Horizontal Pod Autoscaler) and resource requests and limits.
+
+Tomorrow's Learning:
+
+- Understanding Kubernetes architecture and its components.
+- Practical hands-on with Pods, Deployments, and Services.
+- Working with Kubernetes YAML manifest files.
+- Performing scaling, rolling updates, and rollback operations.
+- Practicing basic Kubernetes commands and troubleshooting Pods.
