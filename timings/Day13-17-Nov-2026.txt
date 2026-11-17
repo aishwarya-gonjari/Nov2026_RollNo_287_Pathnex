@@ -1,0 +1,15 @@
+Today's Learning:
+
+- Understanding Helm and its importance in Kubernetes.
+- Learning Helm Charts, Repositories, and Releases.
+- Understanding Helm chart structure and values.yaml file.
+- Practicing Helm commands such as helm install, helm upgrade, helm rollback, and helm uninstall.
+- Deploying and managing Kubernetes applications using Helm Charts.
+
+Tomorrow's Learning:
+
+- Introduction to Argo CD and GitOps principles.
+- Understanding Argo CD architecture and its components.
+- Connecting GitHub repositories with Argo CD.
+- Deploying Kubernetes applications using Argo CD.
+- Understanding Sync, Auto-Sync, and application health status.
