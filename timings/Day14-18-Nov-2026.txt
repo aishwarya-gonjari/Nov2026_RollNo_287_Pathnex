@@ -1,0 +1,15 @@
+Today's Learning:
+
+- Introduction to Argo CD and GitOps principles.
+- Understanding Argo CD architecture and its components.
+- Connecting GitHub repositories with Argo CD.
+- Deploying Kubernetes applications using Argo CD.
+- Understanding Sync, Auto-Sync, and application health status.
+
+Tomorrow's Learning:
+
+-Understand Terraform architecture and workflow.
+-Learn Terraform providers, resources, and variables.
+-Understand Terraform state files.
+-Practice basic Terraform commands: init, validate, plan, apply, and destroy.
+-Create and deploy basic AWS infrastructure using Terraform.
