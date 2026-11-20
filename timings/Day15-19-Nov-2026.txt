@@ -1,0 +1,15 @@
+Today's Learning:
+
+Understand Terraform architecture and workflow.
+-Learn Terraform providers, resources, and variables.
+-Understand Terraform state files.
+-Practice basic Terraform commands: init, validate, plan, apply, and destroy.
+-Create and deploy basic AWS infrastructure using Terraform.
+
+Tomorrow's Learning:
+
+- Learn Terraform modules and their reusability.
+- Understand input variables, local values, and output values in practice.
+- Explore Terraform workspaces and their use cases.
+- Learn how to manage remote state using an S3 backend.
+- Understand Terraform dependency management and lifecycle rules.
