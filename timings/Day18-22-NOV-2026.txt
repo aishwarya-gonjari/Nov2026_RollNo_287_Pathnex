@@ -1,0 +1,15 @@
+Today's Learning:
+
+- Understand monitoring concepts and the importance of infrastructure monitoring.
+- Learn monitoring tools such as Prometheus and Grafana.
+- Understand metrics, logs, alerts, and dashboards.
+- Practically install and configure Prometheus and Grafana.
+- Create monitoring dashboards to track CPU, memory, disk usage, and system health.
+
+Tomorrow's Learning:
+
+1. Understand New Relic dashboards and advanced monitoring.
+2. Learn custom alert conditions and notification channels.
+3. Explore Kubernetes pod logs and troubleshooting using New Relic.
+4. Understand application performance metrics and distributed tracing.
+5. Practice identifying CPU, memory, and application performance issues.
