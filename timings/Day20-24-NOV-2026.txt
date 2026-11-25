@@ -1,0 +1,15 @@
+Today's Learning:
+
+1. Understand GitLab CI/CD architecture and pipeline workflow.
+2. Learn the structure and syntax of the .gitlab-ci.yml file.
+3. Understand pipeline stages, jobs, scripts, and dependencies.
+4. Practically create a simple GitLab CI/CD pipeline with Build and Test stages.
+5. Configure GitLab Runner and execute pipeline jobs.
+
+Tomorrow's Learning:
+
+1. Understand ELK Stack architecture and its working process.
+2. Learn Elasticsearch, Logstash, and Kibana components and their roles.
+3. Understand how to collect, process, and store application logs.
+4. Practically install and configure Elasticsearch and Kibana.
+5. Create Kibana dashboards to visualize and analyze application logs.
