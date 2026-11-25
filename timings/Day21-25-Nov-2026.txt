@@ -1,0 +1,15 @@
+Today's Learning:
+
+1. Understand ELK Stack architecture and its working process.
+2. Learn Elasticsearch, Logstash, and Kibana components and their roles.
+3. Understand how to collect, process, and store application logs.
+4. Practically install and configure Elasticsearch and Kibana.
+5. Create Kibana dashboards to visualize and analyze application logs.
+
+Tomorrow's Learning:
+
+1. Understand Kafka architecture and its components (Producer, Consumer, Broker, and Topic).
+2. Learn Kafka topics, partitions, and offsets.
+3. Understand how Kafka producers publish messages and consumers receive messages.
+4. Learn Kafka installation and basic configuration.
+5. Practically create a Kafka topic, publish messages, and consume messages using CLI commands.
