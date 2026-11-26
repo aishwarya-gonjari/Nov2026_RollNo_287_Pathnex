@@ -1,0 +1,16 @@
+Today's Learning:
+
+1. Understand Kafka architecture and its components (Producer, Consumer, Broker, and Topic).
+2. Learn Kafka topics, partitions, and offsets.
+3. Understand how Kafka producers publish messages and consumers receive messages.
+4. Learn Kafka installation and basic configuration.
+5. Practically create a Kafka topic, publish messages, and consume messages using CLI commands.
+
+Tomorrow's Learning:
+
+1. Understand SSL and TLS certificates and why they are required for secure communication.
+2. Learn the difference between HTTP and HTTPS and how SSL/TLS encryption works.
+3. Understand SSL/TLS certificate types: DV, OV, and EV.
+4. Learn certificate components: Public Key, Private Key, CA, CSR, and Certificate Chain.
+5. Understand practical SSL/TLS certificate installation and configuration on web servers (Nginx/Apache).
+6. Learn certificate expiration, renewal, and troubleshooting SSL/TLS handshake errors.
