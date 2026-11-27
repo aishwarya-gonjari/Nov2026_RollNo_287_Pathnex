@@ -1,0 +1,16 @@
+Today's Learning:
+
+1. Understand SSL and TLS certificates and why they are required for secure communication.
+2. Learn the difference between HTTP and HTTPS and how SSL/TLS encryption works.
+3. Understand SSL/TLS certificate types: DV, OV, and EV.
+4. Learn certificate components: Public Key, Private Key, CA, CSR, and Certificate Chain.
+5. Understand practical SSL/TLS certificate installation and configuration on web servers (Nginx/Apache).
+6. Learn certificate expiration, renewal, and troubleshooting SSL/TLS handshake errors.
+
+Tomorrow's Learning:
+
+1. Understand SRE architecture, principles, and responsibilities.
+2. Learn SLI, SLO, SLA, and Error Budget concepts.
+3. Understand incident management, RCA, MTTR, and MTBF.
+4. Learn application monitoring using Prometheus and Grafana.
+5. Understand high availability, fault tolerance, and disaster recovery.
